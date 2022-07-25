@@ -1,6 +1,7 @@
 body{
     padding: 0%;
     margin: 0%;
+    font-family: 'Poppins', sans-serif;;
 }
 
 
@@ -274,6 +275,7 @@ button{
 
     .header__title>p {
         text-overflow: ellipsis;
+        height: 300px;
     }
 
     .header__img{
